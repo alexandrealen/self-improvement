@@ -32,6 +32,13 @@ Output: 9999
 
 Explanation: It is better not to apply any change.
  
+## Example 3:
+
+Input: num = 9999
+
+Output: 9999
+
+Explanation: It is better not to apply any change.
 
 ## Constraints:
 

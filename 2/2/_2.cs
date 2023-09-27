@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace MinimumSum
+namespace __2
 {
     public static class _2
     {
